@@ -1,0 +1,11 @@
+
+<body>
+    <div>
+        <svg width="285" height="277" viewBox="0 0 285 277" fill="none">
+            <path d="M283.5 138.5C283.5 214.123 220.413 275.5 142.5 275.5C64.5873 275.5 1.5 214.123 1.5 138.5C1.5 62.877 64.5873 1.5 142.5 1.5C220.413 1.5 283.5 62.877 283.5 138.5Z" stroke="#FF0000" stroke-width="3"/>
+        </svg>
+    </div>
+    <script>
+        prompt("test");
+    </script>
+</body>
